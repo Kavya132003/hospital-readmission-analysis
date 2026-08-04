@@ -25,8 +25,11 @@ Source: https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+ye
 4. Predictive modeling (notebooks/03_modeling.ipynb)
 5. Dashboard (dashboard/readmission_dashboard.pbix)
 
-## Key Findings
-_(To be filled in as analysis progresses)_
+## Key Findings (in progress)
+- Readmission risk increases with age: ~2% (0-10) → ~10% (70-90)
+- Prior inpatient visits are a much stronger predictor: 8% (0 visits) → 40%+ (6+ visits)
+- Primary diagnosis has a modest effect (Injury/Circulatory ~9-10% vs Respiratory ~7%), 
+  much smaller than the age or prior-visits effect
 
 ## Recommendations
 _(To be filled in as analysis progresses)_
